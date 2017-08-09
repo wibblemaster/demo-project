@@ -1,4 +1,4 @@
-FROM rhel7-atomic
+FROM centos
 MAINTAINER stephen_gibbs@hotmail.com
 
 CMD ["ls", "-l"]
