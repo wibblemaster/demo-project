@@ -1,4 +1,4 @@
 FROM centos
 MAINTAINER stephen_gibbs@hotmail.com
 
-CMD ["ls", "-la"]
+CMD ["ls", "-lS"]
